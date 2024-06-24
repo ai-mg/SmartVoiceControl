@@ -1,4 +1,4 @@
-### Repository Title
+
 **SmartVoiceControl Speech Command Detection System**
 
 ### Repository Description

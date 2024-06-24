@@ -1,5 +1,5 @@
 
-**SmartVoiceControl Speech Command Detection System**
+## SmartVoiceControl Speech Command Detection System
 
 ### Repository Description
 This repository contains the code and documentation for the SmartVoiceControl speech command detection system, developed as part of the course Machine Learning and Pattern Classification-2024 project at JKU Linz. The system is designed to recognize specific speech commands in German for controlling various household devices like TVs, heating, lights, and more, using smart devices such as phones, watches, or tablets. 
